@@ -2,13 +2,18 @@ import GLOOP.*;
 
 public class Sonnensystem {
     GLSchwenkkamera kamera;
-    GLLicht licht;
-    Erde erde;
+    GLHimmel weltall;
+    
     Sonne sonne;
+    Erde erde;
+    Mond mond;
     public Sonnensystem() {
         kamera = new GLSchwenkkamera();
-        licht = new GLLicht();
-        erde = new Erde();
+        
         sonne = new Sonne();
+        erde = new Erde();
+        mond = new Mond();
+        
+        weltall = new GLHimmel("img/space.png");
     }
 }
