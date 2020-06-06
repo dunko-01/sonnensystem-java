@@ -2,4 +2,10 @@
 comment0.target=Sonne
 comment1.params=
 comment1.target=Sonne()
-numComments=2
+comment2.params=pw
+comment2.target=void\ dreheUmSelbst(int)
+comment3.params=
+comment3.target=GLOOP.GLVektor\ gibMittelpunkt()
+comment4.params=
+comment4.target=int\ gibRadius()
+numComments=5

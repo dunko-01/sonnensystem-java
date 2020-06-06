@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Planetennamen
+comment1.params=
+comment1.target=Planetennamen()
+comment2.params=pZ\ pName
+comment2.target=void\ setzeText(int,\ java.lang.String)
+comment3.params=pPlanetenZahl\ pPlanetenPos\ pR
+comment3.target=void\ positioniere(int,\ GLOOP.GLVektor,\ int)
+comment4.params=pPlanetenZahl
+comment4.target=void\ machSichtbar(int)
+numComments=5

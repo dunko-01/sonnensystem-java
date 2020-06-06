@@ -2,4 +2,12 @@
 comment0.target=Sonnensystem
 comment1.params=
 comment1.target=Sonnensystem()
-numComments=2
+comment2.params=
+comment2.target=void\ starte()
+comment3.params=pW
+comment3.target=void\ dreheSaturnsPlanetenRingUmSonne(double)
+comment4.params=
+comment4.target=void\ planetenWechsel()
+comment5.params=
+comment5.target=void\ setzeNeueTafelUndBlickpunkt()
+numComments=6
